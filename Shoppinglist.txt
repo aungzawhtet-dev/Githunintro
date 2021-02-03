@@ -5,4 +5,7 @@ Oranges
 Bananas
 Cherries
 Strawberries
-carrots
+Carrots
+Watermelon
+Pieapple
+
